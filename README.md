@@ -17,3 +17,4 @@
 - [todo-list-fabric](https://github.com/IBM/todo-list-fabricV1.git)
 - [composer](https://github.com/hyperledger/composer.git)
 - [blockchain-explorer](https://github.com/hyperledger/blockchain-explorer)
+- [awesome-hyperledger-fabric](https://github.com/wearetheledger/awesome-hyperledger-fabric)
