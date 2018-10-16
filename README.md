@@ -22,3 +22,4 @@
 - [composer-tools](https://github.com/hyperledger/composer-tools.git)
 - [awesome-hyperledger](https://github.com/skcript/awesome-hyperledger.git)
 - [SpotExchangeLedger](https://github.com/EthVentures/SpotExchangeLedger)
+- [fabric-net-server](https://github.com/aberic/fabric-net-server.git)
