@@ -7,3 +7,11 @@
 - [asch platform](https://github.com/AschPlatform/asch)
 - [embark platform](https://github.com/embark-framework/embark)
 - [vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs)
+
+
+# Awesome-Fabric
+
+## Project List
+
+- [fabric-explorer](https://github.com/xuehuiit/fabric-explorer.git)
+- [todo-list-fabric](https://github.com/IBM/todo-list-fabricV1.git)
