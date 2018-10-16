@@ -18,3 +18,4 @@
 - [composer](https://github.com/hyperledger/composer.git)
 - [blockchain-explorer](https://github.com/hyperledger/blockchain-explorer)
 - [awesome-hyperledger-fabric](https://github.com/wearetheledger/awesome-hyperledger-fabric)
+- [fabric-starter](https://github.com/olegabu/fabric-starter)
