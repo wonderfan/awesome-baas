@@ -15,3 +15,4 @@
 
 - [fabric-explorer](https://github.com/xuehuiit/fabric-explorer.git)
 - [todo-list-fabric](https://github.com/IBM/todo-list-fabricV1.git)
+- [composer](https://github.com/hyperledger/composer.git)
