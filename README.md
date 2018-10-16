@@ -24,3 +24,4 @@
 - [SpotExchangeLedger](https://github.com/EthVentures/SpotExchangeLedger)
 - [fabric-net-server](https://github.com/aberic/fabric-net-server.git)
 - [Build-Multi-Host-Network-Hyperledger](https://github.com/wahabjawed/Build-Multi-Host-Network-Hyperledger.git)
+- [fabric-dashboard](https://github.com/Lab-Infotel/fabric-dashboard.git)
