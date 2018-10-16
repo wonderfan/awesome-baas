@@ -21,3 +21,4 @@
 - [fabric-starter](https://github.com/olegabu/fabric-starter)
 - [composer-tools](https://github.com/hyperledger/composer-tools.git)
 - [awesome-hyperledger](https://github.com/skcript/awesome-hyperledger.git)
+- [SpotExchangeLedger](https://github.com/EthVentures/SpotExchangeLedger)
