@@ -26,6 +26,7 @@
 - [Build-Multi-Host-Network-Hyperledger](https://github.com/wahabjawed/Build-Multi-Host-Network-Hyperledger.git)
 - [fabric-dashboard](https://github.com/Lab-Infotel/fabric-dashboard.git)
 - [hyperledger-fabric-add-orgs](https://github.com/alejandrolr/hyperledger-fabric-add-orgs.git)
+- [Handson-Blockchain-Development-with-Hyperledger](https://github.com/PacktPublishing/Handson-Blockchain-Development-with-Hyperledger)
 
 
 ## Fabric-CA
