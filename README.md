@@ -38,3 +38,9 @@
 - [fabric-wrapper](https://github.com/talrasha007/fabric-wrapper)
 - [cuttle](https://github.com/learnergo/cuttle)
 - [bftf](https://bftf.io)
+
+
+## Node SSH
+
+- [scp](https://github.com/ecto/node-scp)
+- [scp2](https://github.com/spmjs/node-scp2)
