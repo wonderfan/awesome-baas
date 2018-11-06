@@ -44,3 +44,5 @@
 
 - [scp](https://github.com/ecto/node-scp)
 - [scp2](https://github.com/spmjs/node-scp2)
+- [sshclient](https://github.com/sperka/node-sshclient)
+- [flightplan](https://github.com/pstadler/flightplan)
